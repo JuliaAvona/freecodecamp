@@ -1,2 +1,3 @@
-#Quality Assurance Course
-#https://www.freecodecamp.org/learn/quality-assurance/
+Quality Assurance Course  
+
+https://www.freecodecamp.org/learn/quality-assurance/
